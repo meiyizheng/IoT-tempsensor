@@ -1,4 +1,5 @@
-IoT Temperature Sensor
+#IoT Temperature Sensor
+
 Building interactive personal appliances requires us to be able to communicate with the types of sensors, indicators and actuators that can be connected to such systems. 
 
 In this project we will create applications that run in an embedded system, read data from external sensors, and log the results. Real world devices of this kind are commonly networked.
